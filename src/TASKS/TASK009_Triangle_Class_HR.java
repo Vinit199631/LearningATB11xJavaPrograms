@@ -2,7 +2,7 @@ package TASKS;
 
 import java.util.Scanner;
 
-public class TASK009_Triangle_Class_HR {
+public class  TASK009_Triangle_Class_HR {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the side lengths");
