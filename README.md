@@ -1,4 +1,4 @@
-# LearningATB11xJavaPrograms
+# Practice_JavaPrograms
 
 ## Java Topics Covered
 Below is a list of Java topics covered in this repository:
@@ -49,4 +49,4 @@ Below are the API testing projects practiced using Postman:
 | 4  | Opencart Registration API Testing       |
 | 5  | Data-Driven Testing using Postman       |
 
-This repository serves as a learning path for Java fundamentals and API testing using Postman.
+This repository serves as a learning/Practicing path for Java fundamentals and API testing using Postman.
